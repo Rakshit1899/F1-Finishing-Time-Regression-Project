@@ -13,9 +13,9 @@ env/
 .ipynb_checkpoints/
 
 # Data
-data/raw/
-data/external/
-data/processed/*.csv
+# data/raw/
+# data/external/
+# data/processed/*.csv
 data/processed/*.parquet
 
 # Results
